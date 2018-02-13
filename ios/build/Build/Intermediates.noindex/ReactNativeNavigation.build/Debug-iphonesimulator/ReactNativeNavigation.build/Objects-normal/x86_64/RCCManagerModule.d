@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCManagerModule.m \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCManagerModule.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCLightBox.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCTabBarController.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RCCNotification.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/josephbianchi/Desktop/react-native/rn-course/node_modules/react-native-navigation/ios/RNNSwizzles.h
